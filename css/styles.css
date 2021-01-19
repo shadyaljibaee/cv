@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Signika', sans-serif;
+  background-position: center;
+}
+
+/****** fonts ******
+font-family: 'Kaushan Script', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Nanum Pen Script', cursive;
+font-family: 'Signika', sans-serif;
+********************/
+
+h1 {
+  margin-top: 0;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 60px;
+}
+h2 {
+font-family: 'Nanum Pen Script', cursive;
+font-size: 50px;
+}
+h3 {
+  color: yellow;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 24px;
+}
+p {
+  color: white;
+  font-family: 'Signika', sans-serif;
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+  color: #a9294f;
+  font-size: 20px;
+}
+a:hover {
+  color: #51c2d5;
+}
+
+/**** class ****/
+
+
+
+.profile {
+  background-image: url("../images/7046.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #57a99a;
+}
+.skills {
+  background-image: url("../images/photo.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ecf4f3;
+  }
+.f {
+  font-size: 20px;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: bolder;
+  text-decoration: none;
+  background-color: black;
+  }
+
+.CONTACT {
+  background-image: url("../images/contact.jfif");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+}
+.last {
+  padding-right: 800px;
+}
+/***.top-cloud {
+  position: relative;
+  top: 70px;
+  left: 250px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}****/
+.Get {
+  color: yellow;
+}
+.reach {
+  color: #e8eae6;
+}
+.btn {
+  font-family:'Nanum Pen Script', cursive;
+  font-size: 40px;
+  color: #51c2d5;
+}
+.end {
+  margin-bottom: 0;
+
+}
